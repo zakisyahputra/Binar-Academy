@@ -1,0 +1,10 @@
+h1 {
+    /* selector */
+    color :  rgb(225, 65, 212);
+    background-color: aqua;
+    border: 1px solid black
+}
+
+p {
+    color: blue;
+}
