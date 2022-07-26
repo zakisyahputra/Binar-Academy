@@ -1,0 +1,17 @@
+{
+  "name": "challenge-4-node",
+  "version": "1.0.0",
+  "description": "Mini challenge binar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "zaki",
+  "license": "ISC",
+  "dependencies": {
+    "str-encode": "^1.0.5",
+    "to-hex": "^0.0.18",
+    "xor-crypt": "^1.1.1"
+  }
+}
